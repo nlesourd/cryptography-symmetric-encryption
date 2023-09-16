@@ -1,4 +1,4 @@
-# Assignment 1 : Encryption and decryption
+# Encryption and decryption
 
 This dossier covers the implementation of classic encryption and decryption algorithms such as Vigenere encryption and Row transposition encryption. The aim is to study the strengths and weaknesses of these methods. 
 
