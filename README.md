@@ -1,6 +1,6 @@
 # Encryption and decryption
 
-This dossier covers the implementation of classic encryption and decryption algorithms such as Vigenere encryption and Row transposition encryption. The aim is to study the strengths and weaknesses of these methods. 
+This folder covers the implementation of classic encryption and decryption algorithms such as Vigenere encryption and Row transposition encryption. The aim is to study the strengths and weaknesses of these methods. 
 
 There are two python files:
 - `A1.py`: python file containing the implementation of the encryption methods.
